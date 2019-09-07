@@ -1,0 +1,21 @@
+{
+  "name": "training-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "serverless deploy --aws-profile=dental-conseil",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitescuc/training-lambda.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nitescuc/training-lambda/issues"
+  },
+  "homepage": "https://github.com/nitescuc/training-lambda#readme",
+  "dependencies": {}
+}
